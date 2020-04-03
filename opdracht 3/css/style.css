@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+
+#logo {
+	width: 200px;
+	height: 100px;
+
+  }
+
+  #navigatie {
+  	width: 960px;
+  	height: 40px;
+  	background-color: black;
+  	margin-left: 100px;
+  	text-align: left;
+  }
